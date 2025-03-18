@@ -9,7 +9,7 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.core import SimpleDirectoryReader
 
 # OpenAI API KEY (without api key query engine will not work)
-#openai.api_key = "SDgsdgSDgsGd53Ssdg53578GsdggsdhsdhwetQWt"
+#openai.api_key = "SDgsdgSDgsGd53SdffgSDfgg342323sdg53578Gsdgdfgfg#$62346346"
 
 #Set Default model setting same as you inserted data into index
 Settings.embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
